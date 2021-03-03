@@ -2,17 +2,9 @@
 
 ## 说明
 
-主题来源（vue）
+主题: [hexo-theme-aurora](https://github.com/xbying/hexo-theme-aurora)
 
-主题：[aurora](https://github.com/chanshiyucx/aurora)
-
-网站：[蝉时雨](https://chanshiyu.com)
-
-主题移植（hexo）
-
-主题: [hexo-theme-aurora](https://github.com/sanshiliuxiao/hexo-theme-aurora)
-
-网站：[椎咲良田](https://sanshiliuxiao.top)
+网站：[小背影](https://xbying.com)
 
 ## 时间线
 
@@ -95,9 +87,6 @@
 欢迎使用本主题。
 
 欢迎提交 PR 和 Issues。
-
-
-
 
 
 
